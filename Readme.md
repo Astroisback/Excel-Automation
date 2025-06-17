@@ -1,4 +1,4 @@
-# Python & Automation Internship Assignment
+# Python & Automation 
 
 ## Objective
 This project demonstrates automation skills using real-world event data. It involves data cleaning, personalized messaging, and optional automation via email—all using **pure Python (no external libraries)**.
